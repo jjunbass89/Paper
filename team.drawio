@@ -27,7 +27,7 @@
         <mxCell id="AGhPFDPTPKAuyDsu2DyO-282" value="현준" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="960" y="160" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AGhPFDPTPKAuyDsu2DyO-283" value="    = 인스톨러 리서치&#xa;&#xa;    = 툴 리서치&#xa;&#xa;    = Pdf 확인&#xa;&#xa;    = 쿠버네티스 리서치&#xa;&#xa;&#xa;&#xa;" style="align=left;strokeColor=#DEEDFF;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="AGhPFDPTPKAuyDsu2DyO-283" value="    = 툴 리서치&#xa;&#xa;    = Pdf 확인&#xa;&#xa;    = 쿠버네티스 리서치&#xa;&#xa;    = .msi 세미나&#xa;&#xa;&#xa;&#xa;" style="align=left;strokeColor=#DEEDFF;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="200" width="320" height="210" as="geometry" />
         </mxCell>
         <mxCell id="AGhPFDPTPKAuyDsu2DyO-284" value="형주" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
