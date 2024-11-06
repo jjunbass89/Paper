@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eiP74IhkcyLnccZgrI5i-1818" value="&lt;div&gt;- 담당자 : 현준&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="600" width="220" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="1749" value="P-Engine V.1.1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="440" y="440" width="160" height="40" as="geometry" />
         </mxCell>
@@ -14,7 +17,7 @@
           <mxGeometry x="720" y="880" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1764" value="Hestia" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="720" y="1160" width="80" height="40" as="geometry" />
+          <mxGeometry x="720" y="1290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1771" value="PtoM V.1.0" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="440" y="680" width="120" height="40" as="geometry" />
@@ -32,25 +35,25 @@
           <mxGeometry x="1280" y="440" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1784" value="- 첫 cad 이용 가능 버전&lt;div&gt;- 담당자 : 준혁&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1289" y="490" width="220" height="30" as="geometry" />
+          <mxGeometry x="1290" y="480" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1785" value="P-Engine V.1.2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="720" y="440" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eiP74IhkcyLnccZgrI5i-1786" value="- 첫 대용량 메모리 대응 가능 버전" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eiP74IhkcyLnccZgrI5i-1786" value="- 첫 대용량 메모리 대응 가능 버전&lt;div&gt;- 담장자 : 현진&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="480" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1787" value="P-Engine V.1.3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1000" y="440" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eiP74IhkcyLnccZgrI5i-1788" value="- 첫 판매 가능 버전 (Authenticator)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eiP74IhkcyLnccZgrI5i-1788" value="- 첫 판매 가능 버전 (Authenticator)&lt;div&gt;- 담당자 : 현준&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="480" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1789" value="PtoM V.1.1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1280" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1790" value="-&amp;nbsp;결제 가능 버전" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="730" width="220" height="30" as="geometry" />
+          <mxGeometry x="1290" y="720" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1791" value="StoM V.1.0" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="440" y="800" width="120" height="40" as="geometry" />
@@ -62,44 +65,44 @@
           <mxGeometry x="730" y="920" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1794" value="- pssw 간편화 작업&lt;div&gt;&lt;div&gt;- 담당자 : 형주&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1200" width="220" height="50" as="geometry" />
+          <mxGeometry x="730" y="1330" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1797" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=75;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="420" width="520" height="100" as="geometry" />
+          <mxGeometry x="700" y="430" width="520" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1798" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=75;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="870" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1799" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=75;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1150" width="250" height="100" as="geometry" />
+          <mxGeometry x="680" y="1280" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1800" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=75;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1259" y="660" width="250" height="100" as="geometry" />
+          <mxGeometry x="1260" y="650" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1801" value="P-Engine Web" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="720" y="560" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1802" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=75;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670" y="520" width="250" height="100" as="geometry" />
+          <mxGeometry x="700" y="530" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1803" value="&lt;b&gt;우선순위&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1804" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="1270" as="sourcePoint" />
+            <mxPoint x="680" y="1440" as="sourcePoint" />
             <mxPoint x="680" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1805" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="1270" as="sourcePoint" />
+            <mxPoint x="960" y="1440" as="sourcePoint" />
             <mxPoint x="960" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1806" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1240" y="1270" as="sourcePoint" />
+            <mxPoint x="1240" y="1440" as="sourcePoint" />
             <mxPoint x="1240" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -123,6 +126,18 @@
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1814" value="&lt;b&gt;4&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1280" y="320" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eiP74IhkcyLnccZgrI5i-1815" value="P-House C++" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1040" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eiP74IhkcyLnccZgrI5i-1816" value="- 탈 유니티" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1080" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eiP74IhkcyLnccZgrI5i-1817" value="P-House iOS V.1.0" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eiP74IhkcyLnccZgrI5i-1819" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=75;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="975" y="1020" width="250" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
