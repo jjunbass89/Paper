@@ -16,7 +16,7 @@
         <mxCell id="eiP74IhkcyLnccZgrI5i-1818" value="&lt;div&gt;- 담당자 : 현준, 서영&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="600" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1749" value="P-Engine V.1.1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=16;fontColor=#333333;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="1749" value="P-Engine V.1.1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#FF0000;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=16;fontColor=#333333;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="440" y="440" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1753" value="P-House Android V.1.0" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#FF0000;strokeWidth=3;fillColor=#ffe6cc;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;verticalAlign=top;" parent="1" vertex="1">
@@ -46,7 +46,7 @@
         <mxCell id="eiP74IhkcyLnccZgrI5i-1784" value="- 첫 cad 이용 가능 버전&lt;div&gt;- 담당자 : 준혁&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1290" y="480" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eiP74IhkcyLnccZgrI5i-1785" value="P-Engine V.1.2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#FF0000;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=16;fontColor=#333333;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="eiP74IhkcyLnccZgrI5i-1785" value="P-Engine V.1.2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=16;fontColor=#333333;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="720" y="440" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1786" value="- 첫 대용량 메모리 대응 가능 버전&lt;div&gt;- 담장자 :&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;현준, 송미,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;예찬, 현진&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -89,7 +89,7 @@
           <mxGeometry x="720" y="560" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1802" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=75;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="695" y="540" width="250" height="100" as="geometry" />
+          <mxGeometry x="695" y="420" width="250" height="220" as="geometry" />
         </mxCell>
         <mxCell id="eiP74IhkcyLnccZgrI5i-1803" value="&lt;b&gt;우선순위&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="280" y="320" width="220" height="30" as="geometry" />
